@@ -28,4 +28,7 @@ git reset HEAD file
 # 
 git rm <file>
 
+# 
+git push -u origin master
+
 
