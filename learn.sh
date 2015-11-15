@@ -53,5 +53,7 @@ git commit -m "branch test"
 git checkout master
 
 #
-git merge dev
+git merge dev  [ --no-ff ]
 
+#
+git stash
